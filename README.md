@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jodyannnn
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
