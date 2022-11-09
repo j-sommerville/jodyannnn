@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Jody!
-- 🖥️ I’m aninterested in learning how to code and I am currently learning Java!
+- 🖥️ I am currently learning Java!
